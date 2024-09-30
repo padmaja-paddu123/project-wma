@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: bisque;
+            background-image:url("flower1.webp"),url("floweer\ 3.jpg"),url("tulips-flower4.jpg"),url("flower\ 5.jpg"),url("flower\ 6.jpg"),url("flower\ 7.webp"),url("flower\ 8.jpg"),url("flower\ 9.jpg"),url("flower\ 10.jpg"),url("flower\ 11.jpg"),url("flower\ 11.jpg");
+            background-repeat: no-repeat;
+            background-position-x:left,right,left,right,center,center,center,right,left;
+            background-position-y: top,top,bottom,bottom,center,top,bottom,center,center;
+            background-attachment: fixed;
+
+        }
+    </style>
+</head>
+<body>
+    
+    
+    </p>
+
+</body>
+</html>
